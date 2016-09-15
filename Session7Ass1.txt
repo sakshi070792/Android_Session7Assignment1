@@ -1,0 +1,5 @@
+ans 1)sqliteopenhelper class is use to communicate b/w activity and database.
+
+ans 2)onupgrade function is called when you need to alter table like for deleting,adding or modify table then this funtion is used of sqliteopenhelper class.
+
+ans 3)Showing database information will be better suited with table layout with cursor.
